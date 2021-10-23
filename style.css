@@ -1,0 +1,36 @@
+body
+{
+	background: pink;
+}
+
+	.login_div1 , .login_div2
+	{
+		background:cornsilk;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 30px;
+}
+#word
+{
+	width: 70%;
+}
+#word_display
+{
+	letter-spacing: 8px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid rebeccapurple;
+padding: 10px;
+float: none;
+text-align: left;
+}
